@@ -8,3 +8,6 @@
 6. [Video Captioning With Transferred Semantic Attributes](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pan_Video_Captioning_With_CVPR_2017_paper.pdf) cvpr2017
 7. [Reconstruction Network for Video Captioning](http://cn.arxiv.org/pdf/1803.11438.pdf) cvpr2018
 8. [Video Captioning via Hierarchical Reinforcement Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Video_Captioning_via_CVPR_2018_paper.pdf) cvpr2018
+9. [Bidirectional Attentive Fusion with Context Gating for Dense Video Captioning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Bidirectional_Attentive_Fusion_CVPR_2018_paper.pdf) cvpr2018
+10. [M3
+: Multimodal Memory Modelling for Video Captioning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_M3_Multimodal_Memory_CVPR_2018_paper.pdf) cvpr2018
