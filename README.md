@@ -1,4 +1,4 @@
-# Awsome-video-caption
+# Awsome-Video-Caption
 
 1. [Translating Videos to Natural Language Using Deep Recurrent Neural Networks](http://cn.arxiv.org/pdf/1412.4729.pdf)
 2. [Sequence to Sequence – Video to Text](http://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf)
