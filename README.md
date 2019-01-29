@@ -7,3 +7,4 @@
 5. [Learning Spatiotemporal Features with 3D Convolutional Networks](http://cn.arxiv.org/pdf/1704.01502.pdf) cvpr2017
 6. [Video Captioning With Transferred Semantic Attributes](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pan_Video_Captioning_With_CVPR_2017_paper.pdf) cvpr2017
 7. [Reconstruction Network for Video Captioning](http://cn.arxiv.org/pdf/1803.11438.pdf) cvpr2018
+8. [Video Captioning via Hierarchical Reinforcement Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Video_Captioning_via_CVPR_2018_paper.pdf) cvpr2018
