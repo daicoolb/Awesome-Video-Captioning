@@ -11,3 +11,4 @@
 9. [Bidirectional Attentive Fusion with Context Gating for Dense Video Captioning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Bidirectional_Attentive_Fusion_CVPR_2018_paper.pdf) cvpr2018
 10. [M3
 : Multimodal Memory Modelling for Video Captioning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_M3_Multimodal_Memory_CVPR_2018_paper.pdf) cvpr2018
+11. [End-to-End Dense Video Captioning with Masked Transformer](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.pdf) cvpr2018
