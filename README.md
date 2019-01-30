@@ -14,3 +14,4 @@
 - [M3
 : Multimodal Memory Modelling for Video Captioning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_M3_Multimodal_Memory_CVPR_2018_paper.pdf) cvpr2018
 - [End-to-End Dense Video Captioning with Masked Transformer](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.pdf) cvpr2018
+- [Less Is More: Picking Informative Frames for Video Captioning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yangyu_Chen_Less_is_More_ECCV_2018_paper.pdf) eccv2018
