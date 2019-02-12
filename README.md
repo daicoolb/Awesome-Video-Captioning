@@ -15,6 +15,7 @@
 - [Video Captioning With Transferred Semantic Attributes](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pan_Video_Captioning_With_CVPR_2017_paper.pdf) cvpr2017
 - [Weakly Supervised Dense Video Captioning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Weakly_Supervised_Dense_CVPR_2017_paper.pdf) cvpr2017
 - [Improving Interpretability of Deep Neural Networks with Semantic Information](http://cn.arxiv.org/pdf/1703.04096.pdf) cvpr2017
+- [Task-Driven Dynamic Fusion: Reducing Ambiguity in Video Description](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Task-Driven_Dynamic_Fusion_CVPR_2017_paper.pdf) cvpr2017
 - [Multi-Task Video Captioning with Video and Entailment Generation](http://cn.arxiv.org/pdf/1704.07489.pdf) acl2017
 - [Reinforced Video Captioning with Entailment Rewards ](http://cn.arxiv.org/pdf/1708.02300.pdf) EMNLP2017
 - [Reconstruction Network for Video Captioning](http://cn.arxiv.org/pdf/1803.11438.pdf) cvpr2018
