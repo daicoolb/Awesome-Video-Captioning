@@ -9,6 +9,7 @@
 - [Video Captioning With Transferred Semantic Attributes](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pan_Video_Captioning_With_CVPR_2017_paper.pdf) cvpr2017
 - [Weakly Supervised Dense Video Captioning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Weakly_Supervised_Dense_CVPR_2017_paper.pdf) cvpr2017
 - [Multi-Task Video Captioning with Video and Entailment Generation](http://cn.arxiv.org/pdf/1704.07489.pdf) acl2017
+- [Reinforced Video Captioning with Entailment Rewards ](http://cn.arxiv.org/pdf/1708.02300.pdf) EMNLP2017
 - [Reconstruction Network for Video Captioning](http://cn.arxiv.org/pdf/1803.11438.pdf) cvpr2018
 - [Video Captioning via Hierarchical Reinforcement Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Video_Captioning_via_CVPR_2018_paper.pdf) cvpr2018
 - [Bidirectional Attentive Fusion with Context Gating for Dense Video Captioning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Bidirectional_Attentive_Fusion_CVPR_2018_paper.pdf) cvpr2018
