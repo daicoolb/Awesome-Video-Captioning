@@ -3,6 +3,7 @@
 - [Translating Videos to Natural Language Using Deep Recurrent Neural Networks](http://cn.arxiv.org/pdf/1412.4729.pdf) NAACL-HLT 2015
 - [Sequence to Sequence – Video to Text](http://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf) iccv2015
 - [Learning Spatiotemporal Features with 3D Convolutional Networks](http://cn.arxiv.org/pdf/1412.0767.pdf) iccv2015
+- [Describing Videos by Exploiting Temporal Structure](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yao_Describing_Videos_by_ICCV_2015_paper.pdf) iccv2015
 - [Improving LSTM-based Video Description with Linguistic Knowledge Mined from Text]() EMNLP2016
 - [Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks](http://cn.arxiv.org/pdf/1711.10305.pdf) iccv2017
 - [Learning Spatiotemporal Features with 3D Convolutional Networks](http://cn.arxiv.org/pdf/1704.01502.pdf) cvpr2017
