@@ -26,3 +26,4 @@
 - [End-to-End Dense Video Captioning with Masked Transformer](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.pdf) cvpr2018
 - [Less Is More: Picking Informative Frames for Video Captioning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yangyu_Chen_Less_is_More_ECCV_2018_paper.pdf) eccv2018
 - [Watch, Listen, and Describe: Globally and Locally Aligned Cross-Modal Attentions for Video Captioning](http://cn.arxiv.org/pdf/1804.05448.pdf) NAACL-HLT2018 
+- [Learning to Compose Topic-Aware Mixture of Experts for Zero-Shot Video Captioning](http://cn.arxiv.org/pdf/1811.02765.pdf) aaai2019
