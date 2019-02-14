@@ -4,6 +4,7 @@
 - [Sequence to Sequence – Video to Text](http://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf) iccv2015
 - [Learning Spatiotemporal Features with 3D Convolutional Networks](http://cn.arxiv.org/pdf/1412.0767.pdf) iccv2015
 - [Describing Videos by Exploiting Temporal Structure](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yao_Describing_Videos_by_ICCV_2015_paper.pdf) iccv2015
+- [Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning](http://cn.arxiv.org/pdf/1511.03476.pdf) iccv2016
 - [Improving LSTM-based Video Description with Linguistic Knowledge Mined from Text]() EMNLP2016
 - [Jointly Modeling Embedding and Translation to Bridge Video and Language](http://cn.arxiv.org/pdf/1505.01861.pdf) cvpr2016
 - [Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks](http://cn.arxiv.org/pdf/1510.07712.pdf) cvpr2016
