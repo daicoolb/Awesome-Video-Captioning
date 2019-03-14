@@ -29,4 +29,4 @@
 - [Watch, Listen, and Describe: Globally and Locally Aligned Cross-Modal Attentions for Video Captioning](http://cn.arxiv.org/pdf/1804.05448.pdf) NAACL-HLT2018 
 - [No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling](http://cn.arxiv.org/pdf/1804.09160.pdf) acl2018
 - [Learning to Compose Topic-Aware Mixture of Experts for Zero-Shot Video Captioning](http://cn.arxiv.org/pdf/1811.02765.pdf) aaai2019
-- [Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning](http://cn.arxiv.org/pdf/1902.10322.pdf)
+- [Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning](http://cn.arxiv.org/pdf/1902.10322.pdf) cvpr2019
